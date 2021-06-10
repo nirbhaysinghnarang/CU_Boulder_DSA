@@ -12,5 +12,5 @@ def binary_search(array,item):
 	return (False,-1)
 
 
-arr = [3,4,6,10,24,12,34]
+arr = [3,4,6,10,24,26,34]
 print(binary_search(arr,55))

@@ -20,7 +20,7 @@ int my_binary_search(int *array, int element, int array_size)
 }
 
 int main(){
-	int array[] = {1,4,3,5,6,10,21};
+	int array[] = {1,3,4,5,6,10,21};
 	int result = my_binary_search(array,10,7);
 	cout << result << endl;
 }
