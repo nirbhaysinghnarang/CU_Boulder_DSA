@@ -4,10 +4,12 @@ This repository serves to host all my Python3 & C++ implementations of the algor
 In order to solidfy my own understanding of the content, I will periodically keep on updating the README with my notes on the data structure/algorithm covered most recently.
 
 ## Insertion Sort
-*Best-Case Time Complexity* **O(n)**
-<br>
-<<<<<<< HEAD
-*Worst-Case Time Complexity* **O(n)**
-=======
-*Worst-Case Time Complexity* **O(n^2)**
->>>>>>> 06d390f25804ca01b1fc517171ae5c973a9c2a4b
+<ol>
+    <li> Best-case Time Complexity: **O(n)** </li>
+    <li> Worst-case Time Complexity: **O(n^2)** </li>
+</ol>
+### Algortihmic Procedure
+Divide input array into a sorted and unsorted sub-array.
+Add one element to the sorted array by running an `insert` subprocedure.
+`insert` subprodecure iterates from the element preceding the element to be added to the first element, swapping in the desired order.
+
