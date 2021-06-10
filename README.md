@@ -12,4 +12,3 @@ In order to solidfy my own understanding of the content, I will periodically kee
 Divide input array into a sorted and unsorted sub-array.
 Add one element to the sorted array by running an `insert` subprocedure.
 `insert` subprodecure iterates from the element preceding the element to be added to the first element, swapping in the desired order.
-
