@@ -6,4 +6,8 @@ In order to solidfy my own understanding of the content, I will periodically kee
 ## Insertion Sort
 *Best-Case Time Complexity* **O(n)**
 <br>
+<<<<<<< HEAD
 *Worst-Case Time Complexity* **O(n)**
+=======
+*Worst-Case Time Complexity* **O(n^2)**
+>>>>>>> 06d390f25804ca01b1fc517171ae5c973a9c2a4b
