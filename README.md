@@ -5,8 +5,8 @@ In order to solidfy my own understanding of the content, I will periodically kee
 
 ## Insertion Sort
 <ol>
-    <li> Best-case Time Complexity: **O(n)** </li>
-    <li> Worst-case Time Complexity: **O(n^2)** </li>
+    <li> Best-case Time Complexity: *O(n)* </li>
+    <li> Worst-case Time Complexity: *O(n^2)* </li>
 </ol>
 ### Algortihmic Procedure
 Divide input array into a sorted and unsorted sub-array.
