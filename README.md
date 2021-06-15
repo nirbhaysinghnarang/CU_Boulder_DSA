@@ -38,3 +38,5 @@ Divide the array into smaller sub-arrays using left and right pointers. Compare 
 ### Two-way merge
 Sort two sorted input arrays into a single sorted array.
 
+## Dynamic Array C++
+Data structure that reallocates memory dynamically, supports primitive functions.
