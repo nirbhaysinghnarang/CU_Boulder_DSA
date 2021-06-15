@@ -34,3 +34,7 @@ Best-case Time Complexity: *O(1)*
 Worst-case Time Complexity: *O(n log n)*
 ### Algorithmic Procedure
 Divide the array into smaller sub-arrays using left and right pointers. Compare to the middle of each subarray until subarray is atomic. Repeat while element not found or left pointer less than right pointer.
+
+### Two-way merge
+Sort two sorted input arrays into a single sorted array.
+
